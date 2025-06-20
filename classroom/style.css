@@ -158,3 +158,60 @@ span {
 .box-content p {
   color: #007185;
 }
+.foot-panel {
+  height: 50px;
+  width: 1500px;
+  background-color: #37475a;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  display: flex;
+  font-size: 2remrem;
+}
+.foot-panel2 {
+  background-color: #222f3d;
+  color: white;
+  height: 300px;
+  justify-content: space-evenly;
+  display: flex;
+}
+ul {
+  margin-top: 20px;
+}
+ul a {
+  font-size: 0.85rem;
+  margin-top: 10px;
+  display: block;
+  color: #dddddd;
+}
+.foot-panel3 {
+  background-color: #222f3d;
+  color: white;
+  border-top: 2px solid;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  background-image: url('image_copy_8.png');
+  background-size: cover;
+  height: 50px;
+  width: 100px;
+}
+.foot-panel4 {
+  height: 100px;
+  background-color: #0f1111;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.pages {
+  font-size: 0.7rem;
+  padding-top: 25px;
+}
+.copyright {
+  font-size: 0.7rem;
+  padding-top: 10px;
+}
